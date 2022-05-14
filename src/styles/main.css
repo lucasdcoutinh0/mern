@@ -1,0 +1,9 @@
+.coluna{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.caix{
+    padding: 20px;
+    border: 5px solid white;
+}
